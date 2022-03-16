@@ -20,4 +20,5 @@ urlpatterns = [
     #path('admin/', admin.site.urls),
     # www.xxx.com/index
     path('index/', views.index),
+    path('users/', views.users),
 ]

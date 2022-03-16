@@ -4,3 +4,6 @@ from django.shortcuts import render,HttpResponse
 
 def index(request):
     return HttpResponse("欢迎使用")
+
+def users(request):
+    return HttpResponse("用户列表")

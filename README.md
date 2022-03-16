@@ -72,3 +72,5 @@ urlpatterns = [
 6.启动项目
 
     python3 manage.py runserver 
+
+7.添加页面
