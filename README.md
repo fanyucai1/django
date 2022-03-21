@@ -73,4 +73,12 @@ urlpatterns = [
 
     python3 manage.py runserver 
 
-7.添加页面
+7.templates模版（返回html）
+
+    7-1:在bioinformatic(APP)下创建templates目录，在目录里添加html文件
+    
+8.静态文件包括
+
+    图片
+    CSS
+    js

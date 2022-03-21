@@ -21,4 +21,5 @@ urlpatterns = [
     # www.xxx.com/index
     path('index/', views.index),
     path('users/', views.users),
+    path('user_list/',views.user_list)
 ]
